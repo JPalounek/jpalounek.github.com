@@ -6,7 +6,7 @@
 {% when "getclicky" %}
   {% include JB/analytics-providers/getclicky %}
 {% when "custom" %}
-  {% include custom/analytics %}
+  {% include custom/analytics/gauges %}
 {% endcase %}
 
 {% endif %}
