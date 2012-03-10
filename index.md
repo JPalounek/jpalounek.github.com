@@ -48,5 +48,5 @@ You should be in the root directory of your site, it will create the folder "_si
 Its task for you!
 
 ### Links
-[Github repository](https://github.com/JPalounek/restatic)
-[Homepage](http://restatic.binaryage.com/)
+* [Github repository](https://github.com/JPalounek/restatic)
+* [Homepage](http://restatic.binaryage.com/)
