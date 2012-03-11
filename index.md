@@ -53,3 +53,4 @@ Its task for you!
 ### Links
 * [Homepage](http://restatic.binaryage.com/)
 * [Github repository](https://github.com/JPalounek/restatic)
+* [Example](http://restatic-example.herokuapp.com/)
