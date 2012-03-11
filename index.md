@@ -14,7 +14,7 @@ title: Blog about my work
 ## Tool for parsing google spreadsheet content to your static site
 
 ### Brief introduction
-Restatic is my first bigger project in BinaryAge. Its developed for an injection of given google documents spreadsheet data to your stati site. You just put a marks - such as /-Posts-B2-/ (What means sheet Posts cell B2)- in your html files of your web and provide the sharing key of your spreadsheet using the configuration file in the root of your web's directory and run "restatic -d" in your web's root directory. And its all - your site is prepaired in the _site directory (which is placed in directory you ran this command).
+Restatic is my first bigger project in BinaryAge. Its developed for an injection of given google documents spreadsheet data to your stati site. You just put a marks - such as /-Posts-B2-/ (What means sheet Posts cell B2)- in your html files of your web and provide the sharing key of your spreadsheet using the configuration file in the root of your web's directory and run "restatic -d" in your web's root directory. And its all - your site is prepaired in the _site directory (which is placed in directory you ran this command). See [homepage](http://restatic.binaryage.com/).
 
 ### How to install it
 
@@ -51,5 +51,5 @@ You should be in the root directory of your site, it will create the folder "_si
 Its task for you!
 
 ### Links
-* [Github repository](https://github.com/JPalounek/restatic)
 * [Homepage](http://restatic.binaryage.com/)
+* [Github repository](https://github.com/JPalounek/restatic)
