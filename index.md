@@ -44,6 +44,9 @@ You should be in the root directory of your site, it will create the folder "_si
 
 `"restatic /path/to/source /path/to/target"`
 
+### Inspiration source
+[Restatic example](https://JPalounek@github.com/JPalounek/restatic-example.git)
+
 ### Where to use it
 Its task for you!
 
