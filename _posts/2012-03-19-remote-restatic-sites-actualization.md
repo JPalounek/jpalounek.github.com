@@ -7,8 +7,6 @@ author_uri: http://palounek.com/
 ---
 {% include JB/setup %}
 
-# Serverside Restatic sites actualization
-
 ## Problem
 If you are - and I hope you are - deploying Restatic powered sites and you are using Google Documents as a CMS for your clients then you will probably need to solve some automatization in parsing new content and deploying it.
 

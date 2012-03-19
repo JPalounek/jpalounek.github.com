@@ -7,7 +7,6 @@ author_uri: http://palounek.com/
 ---
 {% include JB/setup %}
 
-# What is Restatic
 ## Tool for parsing google spreadsheet content to your static site
 
 ### Brief introduction
