@@ -69,3 +69,38 @@ body {
 	color:#FFF;
 }
 	
+
+div.article {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  width: 250px;
+  float: left;
+  margin: 0 20px 20px 0;
+  position: relative;
+  text-align: center;
+}
+
+div.article {
+  border-bottom: 1px solid #e7e7e7;
+  color: #777;
+  font-size: 0.89em;
+  padding-bottom: 2px;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 0.9;
+  color: #cf292e;
+  /* color: #404040; */
+  letter-spacing: -1px;
+}
+
+div.article h2 {
+  padding: 5px 0 20px;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+div.article p {
+  border-bottom: 1px solid #e7e7e7;
+  padding: 16px 0 30px; 
+}
