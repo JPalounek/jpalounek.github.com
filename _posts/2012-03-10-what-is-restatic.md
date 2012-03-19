@@ -2,12 +2,12 @@
 layout: post
 category : posts
 tags : [restatic, binaryage, static-sites]
-author_name: Antonin Hildebrand
-author_uri: http://hildebrand.cz
+author_name: Jan Palounek
+author_uri: http://palounek.com/
 ---
 {% include JB/setup %}
 
-# Restatic
+# What is Restatic
 ## Tool for parsing google spreadsheet content to your static site
 
 ### Brief introduction
