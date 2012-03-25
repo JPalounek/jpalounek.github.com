@@ -6,9 +6,9 @@ title: Blog about my work
 
 <div class="article">
 	<div class="date">
-		<span>10. 3. 2012</span>
+		<span>25. 3. 2012</span>
 	</div>
-	<h2><a href="/posts/2012/03/19/remote-restatic-sites-actualization">Remote Restatic Sites Actualization</a></h2>
+	<h2><a href="/posts/2012/03/25/remote-restatic-sites-actualization">Remote Restatic Sites Actualization</a></h2>
 	<p>Solution of problem when you need automatically actualize restatic site deployed to server.</p>
 </div>
 
